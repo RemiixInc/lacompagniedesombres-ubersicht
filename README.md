@@ -6,3 +6,6 @@ A rewrite of the popular [La Compagnie des Ombres - Rainmeter Skin](https://visu
 - Click on the Übersicht icon in your menu bar and press **Open Widgets Folder**.
 - **Unzip** the file.
 - Open the folder and **install the two fonts**.
+
+## Contact
+Join [my Discord Server](https://discord.gg/rTQq4Cs) and leave your feedback or ask for help.
