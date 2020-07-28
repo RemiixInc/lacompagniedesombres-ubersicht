@@ -12,7 +12,3 @@ A rewrite of the popular [La Compagnie des Ombres - Rainmeter Skin](https://visu
 
 ---
 #### If you like this, try my other widget for Übersicht, [YouTube Live Subscriber Count](https://github.com/RemiixInc/youtube-ubersicht)
----
-
-## Contact
-Join [my Discord Server](https://discord.gg/rTQq4Cs) and leave your feedback or ask for help.
