@@ -9,6 +9,3 @@ A rewrite of the popular [La Compagnie des Ombres - Rainmeter Skin](https://visu
 - Click on the Übersicht icon in your menu bar and press **Open Widgets Folder**.
 - **Unzip** the file.
 - Open the folder and **install the two fonts**.
-
----
-#### If you like this, try my other widget for Übersicht, [YouTube Live Subscriber Count](https://github.com/RemiixInc/youtube-ubersicht)
